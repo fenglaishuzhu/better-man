@@ -1,13 +1,9 @@
-title: Go语言学习杂记
+title: 我要便匆名--向查理致敬！
 author: Yongfei
 email: h739578083@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   定投践行群108班成员
   社区文化：读书，健身，投资，帮朋友，陪家人
-
-# social links
-mixin_id: 36516190 # DO NOT include the @ character, or else the build will fail!
-WeChat_id: h739578083 # DO NOT include the @ character, or else the build will fail!
-
+  
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
