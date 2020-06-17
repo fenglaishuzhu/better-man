@@ -13,11 +13,17 @@
 >   * 国外用户，在[Google Play Store 下载](https://play.google.com/store/apps/details?id=one.mixin.messenger)
 
 **后续如果有任何不懂的，都可以联系我，我已经用mixin一年多了.**
-**Mixin_id:36516190**
+
+> **Mixin_id:** 36516190
+
 ##### 定投践行群邀请码，要的话私聊我哦
 > * 4U5RQA****
 > * Y25ENR****
 > * F7XWUA****
+
+### 2020.6.17
+* [PDF 转 Word | Excel | PPT | JPG ](https://smallpdf.com/cn/pdf-to-jpg),当然也可以从**Word转成PDF**
+
 
 ### 2020.6.16
 
