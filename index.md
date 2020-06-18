@@ -21,13 +21,17 @@
 > * Y25ENR****
 > * F7XWUA****
 
+### 2020.6.18
+* [水龙头App，购物返佣比特币](https://app.exinearn.com/invite/6QQAQJ?source=link)，**淘宝｜京东｜拼多多**都可以用，甚至**饿了么**都可以。
+
+
 ### 2020.6.17
-* [PDF 转 Word | Excel | PPT | JPG ](https://smallpdf.com/cn/pdf-to-jpg),当然也可以从**Word转成PDF**
+* [PDF 转 Word | Excel | PPT | JPG ](https://smallpdf.com/cn/pdf-to-jpg),当然也可以从**Word转成PDF**。
 
 
 ### 2020.6.16
 
-* [在线观影｜最新美剧｜最新韩剧](https://www.zxzj.me/)，大部分影片也可以下载下来看。**免费无广告**
+* [在线观影｜最新美剧｜最新韩剧](https://www.zxzj.me/)，大部分影片也可以下载下来看。**免费无广告**。
 
 ### 2020.6.10
 * 学习GitHub个人网站搭建，根据github提示一步步完成GitHub page 由于全都是英语看的有点发懵，屋里也很燥热，就有点烦起来了，不过后来静下心来看进去了，就跟着一步步做下来，感觉要成功了，搭建成功后很开心。
