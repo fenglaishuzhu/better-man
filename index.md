@@ -21,6 +21,27 @@
 > * Y25ENR****
 > * F7XWUA****
 
+### 2020.6.23
+向往丰富而自由的世界，[需要有一把梯子](https://www.pandufm.xyz/i/15508992),如果一把梯子不行，那就[多选几把梯子](https://github.com/vpnfast/vpnfast.github.io)
+
+最好穿上防护服，不要在互联网世界裸奔，[防护服推荐DuckDuckGo](https://duckduckgo.com/?natb=v226-6gt&cp=atbhc)
+
+**Mixin创始人Cedric Fung的[博客](https://vec.io/)**
+
+:point_down: 推荐一下我喜欢的内容 :stuck_out_tongue_winking_eye: [markdown符号表情](https://github.com/zhouie/markdown-emoji)
+#### 哔哩哔哩
+> * [小高姐的魔法调料](https://space.bilibili.com/216156027/)
+> * [回形针PaperClip](https://space.bilibili.com/258150656/)
+> * [巫师财经](https://space.bilibili.com/472747194/)
+> * [soulhacker](https://space.bilibili.com/760331/),欢迎进入编程世界
+> * [李子柒](https://space.bilibili.com/19577966/),神仙姐姐什么都会
+
+#### Youtube
+> * [老高與小茉 Mr & Mrs Gao](https://www.youtube.com/channel/UCMUnInmOkrWN4gof9KlhNmQ/featured)
+> * [硅谷王川](https://www.youtube.com/channel/UCiQzPCzbhRiItMnItorZAag)
+> * [DoodleChaos](https://www.youtube.com/channel/UCnVimh35ecf46P_Bt-2AArg)
+
+
 ### 2020.6.18
 * [水龙头App，购物返佣比特币](https://app.exinearn.com/invite/6QQAQJ?source=link)，**淘宝｜京东｜拼多多**都可以用，甚至**饿了么**都可以。
 
