@@ -4,3 +4,5 @@
 Mixin_id: 36516190
 
 Wechat:  h739578083
+
+![donate](https://github.com/fenglaishuzhu/better-man/blob/master/images/donate2.jpg)
