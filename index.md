@@ -12,7 +12,11 @@
 >   * 国内用户，在[腾讯应用宝下载](https://a.app.qq.com/o/simple.jsp?pkgname=one.mixin.messenger)
 >   * 国外用户，在[Google Play Store 下载](https://play.google.com/store/apps/details?id=one.mixin.messenger)
 
-**后续如果有任何不懂的，都可以联系我，我已经用mixin一年多了.**
+#### [《入群指南极简版》](https://www.yuque.com/books/share/7f77a093-f10f-47d8-ac89-b387a8128a8a?# ) 
+
+#### [《新人手册》](https://www.yuque.com/books/share/78908d23-9083-4aff-ac95-bb1d8e69d23c?#)
+
+**后续如果有任何不懂的，都可以联系我**
 
 > **Mixin_id:** 36516190
 
@@ -20,6 +24,18 @@
 > * 4U5RQA****
 > * Y25ENR****
 > * F7XWUA****
+
+### 2020.7.4
+> * 送给你们一个网址，大多数英文原版书都能免费找到+下载的网址, https://www.jiumodiary.com/
+> * 图片素材网站（推荐理由：免费，实用） 
+>   * Pexels https://www.pexels.com/zh-cn/
+>   * Pixabay https://pixabay.com/
+>   * Easyicon https://www.easyicon.net/
+> * 图片处理海报工具 Canve https://www.canva.cn/ （有 app，推荐理由：不需要懂设计，套用模版简单出海报） 
+> * 图片组合工具 Layout （app，推荐理由，简单组合图片） 
+> * 图片处理工具 创客贴 https://www.chuangkit.com/
+
+
 
 ### 2020.6.23
 向往丰富而自由的世界，[需要有一把梯子](https://www.pandufm.xyz/i/15508992),如果一把梯子不行，那就[多选几把梯子](https://github.com/vpnfast/vpnfast.github.io)
