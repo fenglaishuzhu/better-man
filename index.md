@@ -20,12 +20,10 @@
 
 > **Mixin_id:** 36516190
 
-##### 定投践行群邀请码，要的话私聊我哦
-> * 4U5RQA****
-> * Y25ENR****
-> * F7XWUA****
+##### 定投践行群邀请码
+> * Q0YR3H2EY9
 
-### 2020.7.4
+### 图片处理
 > * 送给你们一个网址，大多数英文原版书都能免费找到+下载的网址, https://www.jiumodiary.com/
 > * 图片素材网站（推荐理由：免费，实用） 
 >   * Pexels https://www.pexels.com/zh-cn/
@@ -35,9 +33,7 @@
 > * 图片组合工具 Layout （app，推荐理由，简单组合图片） 
 > * 图片处理工具 创客贴 https://www.chuangkit.com/
 
-
-
-### 2020.6.23
+### 科学上网
 向往丰富而自由的世界，[需要有一把梯子](https://www.pandufm.xyz/i/15508992),如果一把梯子不行，那就[多选几把梯子](https://github.com/vpnfast/vpnfast.github.io)
 
 最好穿上防护服，不要在互联网世界裸奔，[防护服推荐DuckDuckGo](https://duckduckgo.com/?natb=v226-6gt&cp=atbhc)
@@ -58,15 +54,15 @@
 > * [DoodleChaos](https://www.youtube.com/channel/UCnVimh35ecf46P_Bt-2AArg)
 
 
-### 2020.6.18
+### 购物返佣
 * [水龙头App，购物返佣比特币](https://app.exinearn.com/invite/6QQAQJ?source=link)，**淘宝｜京东｜拼多多**都可以用，甚至**饿了么**都可以。
 
 
-### 2020.6.17
+### 办公工具
 * [PDF 转 Word | Excel | PPT | JPG ](https://smallpdf.com/cn/pdf-to-jpg),当然也可以从**Word转成PDF**。
 
 
-### 2020.6.16
+### 在线观影
 
 * [在线观影｜最新美剧｜最新韩剧](https://www.zxzj.me/)，大部分影片也可以下载下来看。**免费无广告**。
 
