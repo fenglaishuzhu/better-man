@@ -13,9 +13,6 @@
 ##### 定投践行群邀请码
 > * **Q0YR3H2EY9**
 
-
-:point_down: 推荐一下我喜欢的内容 :stuck_out_tongue_winking_eye: [markdown符号表情](https://github.com/zhouie/markdown-emoji)
-
 ### 办公工具
 * [PDF 转 Word](https://smallpdf.com/cn/pdf-to-jpg),当然也可以从**Word转成PDF**。
 > * 大多数英文原版书都能免费找到+[下载的网址](https://www.jiumodiary.com/)
