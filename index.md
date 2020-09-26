@@ -13,8 +13,12 @@
 ##### 定投践行群邀请码
 > * **Q0YR3H2EY9**
 
+### 自学编程
+> * [xue.cn](https://xue.cn?inviter=wjyrr)在线编程
+
+
 ### 办公工具
-* [PDF 转 Word](https://smallpdf.com/cn/pdf-to-jpg),当然也可以从**Word转成PDF**。
+> * [PDF 转 Word](https://smallpdf.com/cn/pdf-to-jpg),当然也可以从**Word转成PDF**。
 > * 大多数英文原版书都能免费找到+[下载的网址](https://www.jiumodiary.com/)
 
 ### 图片处理
