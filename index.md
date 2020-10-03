@@ -4,9 +4,7 @@
 
 #### 如何加入 BOX 定投践行群
 
-##### [《入群指南极简版》](https://www.yuque.com/books/share/7f77a093-f10f-47d8-ac89-b387a8128a8a?# ) 
-
-##### [《新人手册》](https://www.yuque.com/books/share/78908d23-9083-4aff-ac95-bb1d8e69d23c?#)
+##### [《践行群使用手册》](https://www.yuque.com/box1972/ggt8zk ) 
 
 > **Mixin_id:** 36516190
 
