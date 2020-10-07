@@ -1,14 +1,13 @@
-**沉住气，慢慢走**
+### 沉住气，慢慢走
 
 #### [《定投改变命运》](https://ri.firesbox.com/#/cn/)
 
-#### 如何加入 BOX 定投践行群
+#### [我在践行群的成长](https://www.yuque.com/yongfei-vrdyn/fsud3q/article_newspaper)
 
-##### [《践行群使用手册》](https://www.yuque.com/box1972/ggt8zk ) 
 
 > **Mixin_id:** 36516190
 
-##### 定投践行群邀请码
+#### 定投践行群邀请码
 > * **Q0YR3H2EY9**
 
 #### [我的小破站](https://space.bilibili.com/246534842)
